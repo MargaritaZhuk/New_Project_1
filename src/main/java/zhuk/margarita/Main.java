@@ -7,12 +7,12 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 
-        System.out.printf("Time for conflict!");
+        System.out.printf("Conflict time!");
 
-        for (int a = 1; a <= 5; a++) {
+        for (int c = 1; c <= 5; c++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("a = " + a);
+            System.out.println("c = " + c);
         }
     }
 }
